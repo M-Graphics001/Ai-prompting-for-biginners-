@@ -1,0 +1,60 @@
+Output Formats
+
+Sometimes the content of an AI response is useful, but the format is inconvenient.
+
+You can ask for a specific structure.
+
+Bullet Points
+
+Explain the benefits of exercise in five bullet points.
+
+Table
+
+Compare Python, JavaScript, and Java.
+
+Use this format:
+
+| Language | Difficulty | Common Uses | Beginner Friendly? |
+
+JSON
+
+Return the information as JSON with these fields:
+
+name
+description
+difficulty
+examples
+
+Step-by-Step
+
+Explain how to create a GitHub repository.
+
+Give the instructions as numbered steps.
+
+Checklist
+
+Create a checklist for preparing for a job interview.
+
+Template
+
+You can also provide a format that the AI should follow:
+
+Use this structure:
+
+Definition:
+Why it matters:
+Example:
+Common mistake:
+Practice exercise:
+
+Why Output Format Matters
+
+Specifying the output format makes the response easier to:
+
+- Read
+- Compare
+- Copy
+- Edit
+- Reuse
+
+When you need a particular structure, simply ask for it.
