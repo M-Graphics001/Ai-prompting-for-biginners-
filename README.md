@@ -30,8 +30,6 @@ You do not need to be a programmer or AI expert. If you can write a question or 
 
 Prompting is the process of giving instructions or information to an AI system to produce a desired response.
 
-For example:
-
 Basic prompt
 
 Explain Python.
@@ -51,7 +49,7 @@ A useful starting formula is:
 
 Task + Context + Requirements + Output Format
 
-For example:
+Example:
 
 Task:
 Create a study plan for learning Python.
@@ -69,22 +67,16 @@ Present the plan as a table.
 
 1. Introduction
 
-Start here if you are completely new to AI and prompting.
-
 - "What is AI?" (01-introduction/what-is-ai.md)
 - "What is Prompting?" (01-introduction/what-is-prompting.md)
 
 2. Prompt Basics
-
-Learn how to construct better prompts.
 
 - "Anatomy of a Prompt" (02-prompt-basics/anatomy-of-a-prompt.md)
 - "Context and Constraints" (02-prompt-basics/context-and-constraints.md)
 - "Output Formats" (02-prompt-basics/output-formats.md)
 
 3. Prompting Techniques
-
-Learn useful techniques for improving your results.
 
 - "Zero-Shot Prompting" (03-prompting-techniques/zero-shot-prompting.md)
 - "Few-Shot Prompting" (03-prompting-techniques/few-shot-prompting.md)
@@ -93,8 +85,6 @@ Learn useful techniques for improving your results.
 
 4. Practical Examples
 
-See how prompting can be used in everyday situations.
-
 - "Learning" (04-practical-examples/learning.md)
 - "Coding" (04-practical-examples/coding.md)
 - "Writing" (04-practical-examples/writing.md)
@@ -102,20 +92,14 @@ See how prompting can be used in everyday situations.
 
 5. Common Mistakes
 
-Learn what beginners commonly get wrong.
-
 - "Mistakes to Avoid" (05-common-mistakes/mistakes-to-avoid.md)
 
 6. Exercises
-
-Practice writing your own prompts.
 
 - "Exercises" (06-exercises/exercises.md)
 - "Solutions" (06-exercises/solutions.md)
 
 7. Resources
-
-Use these templates and definitions as references.
 
 - "Prompt Templates" (resources/prompt-templates.md)
 - "Glossary" (resources/glossary.md)
