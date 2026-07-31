@@ -1,0 +1,73 @@
+What Is Prompting?
+
+A prompt is the input, instruction, question, or information you provide to an AI system.
+
+Prompting is the process of designing those inputs to help an AI system produce a useful response.
+
+Simple Example
+
+What is photosynthesis?
+
+This is a prompt.
+
+A more detailed prompt might be:
+
+Explain photosynthesis to a 10-year-old.
+
+Use simple language, one everyday analogy,
+and finish with three questions to test understanding.
+
+Both prompts ask about photosynthesis, but the second gives the AI more direction.
+
+What Makes a Prompt Useful?
+
+A useful prompt often tells the AI:
+
+1. What to do
+2. Why or for whom
+3. What information to use
+4. What requirements to follow
+5. How the answer should be presented
+
+Prompting Is Not Magic
+
+There is no universal "perfect prompt."
+
+A prompt that works well for one task may not work well for another.
+
+Good prompting is usually a process:
+
+Write prompt
+     ↓
+Get response
+     ↓
+Review response
+     ↓
+Identify problems
+     ↓
+Improve prompt
+     ↓
+Try again
+
+This is called iterative prompting.
+
+Questions vs Instructions
+
+A prompt can be a question:
+
+What causes rain?
+
+It can also be an instruction:
+
+Summarize this article in five bullet points.
+
+Or a combination:
+
+Explain recursion to a beginner.
+Give a simple example and one practice exercise.
+
+Key Idea
+
+The goal of prompting is not to make your prompt unnecessarily complicated.
+
+The goal is to make your intent clear.
