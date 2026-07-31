@@ -1,0 +1,70 @@
+Anatomy of a Prompt
+
+A prompt can contain several components.
+
+You do not always need every component, but understanding them helps you create better prompts.
+
+1. Task
+
+Tell the AI what you want it to do.
+
+Create a study plan for learning Python.
+
+2. Context
+
+Give information that helps the AI understand your situation.
+
+I am a complete beginner and can study for one hour each day.
+
+3. Audience
+
+Tell the AI who the response is for.
+
+Explain this to a high-school student.
+
+4. Requirements
+
+Specify what the response must include.
+
+Include five examples and three practice questions.
+
+5. Constraints
+
+Set boundaries.
+
+Keep the explanation under 500 words.
+
+6. Output Format
+
+Tell the AI how you want the result structured.
+
+Present the answer as a table.
+
+Putting Everything Together
+
+Task:
+Create a 30-day Python study plan.
+
+Context:
+I am a complete beginner and can study for one hour per day.
+
+Audience:
+The plan should be suitable for someone with no programming experience.
+
+Requirements:
+Include Python fundamentals, exercises, and weekly review.
+
+Constraints:
+Keep each daily lesson under one hour.
+
+Output:
+Present the plan as a table with:
+Day | Topic | Activity | Practice
+
+Simple Formula
+
+Remember:
+
+Task + Context + Requirements + Output
+
+This is not a strict rule. It is simply a useful starting point.
