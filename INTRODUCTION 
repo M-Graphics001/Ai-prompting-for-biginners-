@@ -1,0 +1,72 @@
+What Is Artificial Intelligence?
+
+Artificial Intelligence, commonly called AI, is a field of technology focused on creating systems that can perform tasks that normally require human intelligence.
+
+These tasks can include:
+
+- Understanding language
+- Recognizing patterns
+- Generating text
+- Analyzing information
+- Creating images
+- Translating languages
+- Writing computer code
+- Answering questions
+
+What Is Generative AI?
+
+Generative AI refers to AI systems that can create new content based on instructions.
+
+Depending on the system, this may include:
+
+- Text
+- Images
+- Audio
+- Video
+- Computer code
+
+For example, a user might ask an AI system:
+
+Explain how the internet works to a 12-year-old.
+
+The system generates a response based on patterns learned during training and the information provided in the conversation.
+
+What Is an AI Model?
+
+An AI model is a system trained to perform particular tasks.
+
+Large Language Models, or LLMs, are AI models designed to work with language.
+
+They can be used for tasks such as:
+
+- Answering questions
+- Summarizing text
+- Generating ideas
+- Explaining concepts
+- Writing and editing
+- Translating
+- Programming assistance
+
+Why Does This Matter for Prompting?
+
+AI systems do not automatically know exactly what you want.
+
+The instructions you provide influence the response.
+
+Compare:
+
+Tell me about programming.
+
+with:
+
+Explain programming to a complete beginner.
+
+Use simple language and explain:
+1. What programming is
+2. What a programming language is
+3. What variables are
+4. Give one simple example
+
+The second prompt gives the AI a clearer goal.
+
+That is where prompting becomes useful.
