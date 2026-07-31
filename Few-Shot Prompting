@@ -1,0 +1,54 @@
+Few-Shot Prompting
+
+Few-shot prompting means providing examples to show the AI what you want.
+
+Example
+
+Suppose you want to classify messages as positive or negative.
+
+Classify each message as Positive or Negative.
+
+Example:
+"I love this product." → Positive
+"This is terrible." → Negative
+
+Now classify:
+"The service was excellent."
+
+The examples demonstrate the expected behavior.
+
+Another Example
+
+Convert casual language into professional language.
+
+Example:
+"Send me the file." → "Could you please send me the file?"
+
+Example:
+"Fix this quickly." → "Could you please resolve this issue as soon as possible?"
+
+Now convert:
+"Give me the report."
+
+Why Examples Help
+
+Examples can show:
+
+- The expected style
+- The expected format
+- How to classify something
+- How detailed the answer should be
+- How a transformation should work
+
+When to Use Few-Shot Prompting
+
+Use examples when the task is:
+
+- Unusual
+- Ambiguous
+- Difficult to explain with instructions alone
+- Sensitive to formatting or style
+
+Key Idea
+
+Sometimes showing the AI what you want is easier than explaining it.
