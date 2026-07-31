@@ -1,0 +1,47 @@
+Zero-Shot Prompting
+
+Zero-shot prompting means asking an AI to perform a task without providing examples.
+
+Example
+
+Summarize this article in five bullet points.
+
+No example of the desired summary is provided.
+
+Another Example
+
+Translate the following sentence into French:
+
+"Where is the nearest train station?"
+
+When Is It Useful?
+
+Zero-shot prompting works well for straightforward tasks such as:
+
+- Summarization
+- Translation
+- Classification
+- Simple explanations
+- Brainstorming
+- Basic rewriting
+
+Improving a Zero-Shot Prompt
+
+A basic prompt:
+
+Summarize this article.
+
+A more specific prompt:
+
+Summarize this article in five bullet points.
+
+Focus on the main arguments and important conclusions.
+Do not include minor details.
+
+The second prompt is still zero-shot because no examples were provided.
+
+Key Idea
+
+Start simple.
+
+If the response is good enough, you do not need to make the prompt more complicated.
