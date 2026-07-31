@@ -1,0 +1,69 @@
+Context and Constraints
+
+Context
+
+Context is information that helps an AI understand your situation.
+
+Without context
+
+Create a workout plan.
+
+The AI has very little information.
+
+With context
+
+Create a beginner workout plan.
+
+Context:
+I am new to exercise.
+I have 30 minutes available each day.
+I have access to basic gym equipment.
+
+The AI now has more information to work with.
+
+Constraints
+
+Constraints tell the AI what limits or rules to follow.
+
+Examples:
+
+Keep the answer under 300 words.
+
+Use simple language.
+
+Give exactly five examples.
+
+Do not use technical terminology without explaining it.
+
+Why Context and Constraints Matter
+
+Without clear requirements, an AI may produce a response that is technically relevant but not useful for your situation.
+
+For example:
+
+Write a study plan.
+
+could produce almost anything.
+
+Instead:
+
+Create a 14-day study plan for a beginner learning HTML.
+
+I can study for 45 minutes each evening.
+
+Include:
+- One topic per day
+- A short explanation
+- One practice task
+
+Present it as a table.
+
+This gives the AI a clearer target.
+
+Important
+
+More instructions do not automatically mean a better prompt.
+
+Avoid adding unnecessary information.
+
+Give the AI the information that actually helps it complete the task.
